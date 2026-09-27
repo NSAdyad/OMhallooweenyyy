@@ -1,0 +1,13 @@
+{
+  "name": "halloween-interactive-world-realtime",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Realtime classroom service for Halloween Interactive World",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
